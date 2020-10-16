@@ -1,0 +1,14 @@
+{
+    "licenses" : [
+        {
+            "formal_name" : "(7-Zip Command line version )",
+            "license" : "7-Zip Command line version | GNU Library General Public License v.2 or later\nCopyright (c) 1999-2015 Igor Pavlov.\nThis library is free software; you can redistribute it and/or modify it under the terms of the GNU Library General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.  This library is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Library General Public License for more details.\n",
+            "name" : "7z",
+            "oss_licenses" : "LGPL2.0 or later",
+            "purpose" : "Compression",
+            "used_for_build" : "true",
+            "used_in_editor" : "true",
+            "version" : "16.02 (macOS)"
+        }
+    ]
+}

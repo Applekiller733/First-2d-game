@@ -1,0 +1,19 @@
+sceneSetups:
+- path: Assets/Scenes/Tutorial Scene.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes/Scene1.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes/Testing Scene.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes/Bossfight1.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/Scenes/Scene2.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes/Scene3.unity
+  isLoaded: 0
+  isActive: 0
