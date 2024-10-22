@@ -9,11 +9,13 @@ This game was made several years prior to this readme (in 2020) and publicized o
 
 Some art and videos from the game itself:
 
-https://gyazo.com/d98dfa5be0ba4c80841b2b0b05d31222
 
-https://gyazo.com/2d1a623fa7094550de1950a756909931
 
-https://media.discordapp.net/attachments/222588765091135489/712955274218045481/Enemy_Goblin_anims.gif?ex=668bacd7&is=668a5b57&hm=d0e56f3ec012a63364c53e086b6d2850f215e407a5444612ba762181da298ac7&44
 
-https://cdn.discordapp.com/attachments/222588765091135489/706591649559478433/Corrupted_Druid_player_attackmeleegif.gif?ex=668b9881&is=668a4701&hm=d07aeb5c29e766ca84e4fc6d50e43a39989ff4360659cd954c634f30c587bae1&
+https://github.com/user-attachments/assets/00eb263b-842c-41a0-9ed9-6e9aa63e42df
+
+
+
+
+https://github.com/user-attachments/assets/da11a3e8-e6d9-403a-8f19-6e38ea2ccbd8
 
